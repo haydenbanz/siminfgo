@@ -4,6 +4,7 @@
 # Siminfgo
 this is a python based file which get detailed information about number
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 
 ## Requirements:
 
